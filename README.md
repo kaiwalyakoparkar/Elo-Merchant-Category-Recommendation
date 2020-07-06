@@ -1,5 +1,7 @@
+![Elo-Merchant-Category-Recommendation](src/elo.png)
+
 # Elo-Merchant-Category-Recommendation
-This project is my submission for my internship
+This project is my submission for my internship.
 
 # Data Set Required
 The 3 essential data set are included in the data set folder but 2 data sets were too big so the couldn't be uploaded
